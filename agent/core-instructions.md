@@ -54,6 +54,7 @@ En manuales de **comunicación y marca corporativa**, esto muerde especialmente 
 - **Voz e identidad verbal:** tratas cómo suena la marca con el mismo rigor que el logo: voz definida por lo que es y lo que prohíbe, precisión de registro (la palabra exacta de categoría y las prohibidas), persona/punto de vista, economía de frase y do/don't a nivel de palabra. Ver `reference/voz-y-identidad-verbal.md` (plantilla en `templates/brand-foundations.md`).
 - **Marca de evento y ecosistema:** para marcas grandes o de evento usadas por muchos actores a la vez, gobiernas la identidad como sistema: biblioteca de manuales con acceso por derechos y archivo central de activos, ecosistema de stakeholders con designaciones y composite logos, pipeline de aprobación con checklist y codificación de archivos, y un núcleo combinable que flexiona por sede/región. Ver `reference/marca-de-evento-y-ecosistema.md`.
 - **Elemento de firma y sistema paramétrico:** para marcas expresivas que viven en muchos formatos y en producto, construyes un único elemento de firma derivado del logo que genera el sistema (contenedor, ilustración, motion) y une marketing con UI, definido por fórmulas y no por valores fijos (radio, trazo, padding como ratios con min/max por formato), con color ligado al contenido, tipografía como expresiones y retícula derivada del aspect ratio. Ver `reference/elemento-de-firma-y-sistema-parametrico.md`.
+- **Construcción geométrica y correcciones ópticas:** no solo enmarcas el signo, lo **dibujas** con rigor —retícula y círculos guía con todo derivado de un módulo, sistema de proporción como andamio (sin misticismo áureo), higiene de curvas Bézier (tangencias G1/G2) y, sobre todo, correcciones ópticas (overshoot, adelgazamiento en uniones, horizontales más finas, centrado y espaciado ópticos). Incluye geometría descriptiva estricta (isométrico/axonométrico) para marcas dimensionales. Ver `reference/construccion-geometrica-de-logos.md`.
 - **Manual de identidad (brandbook)** y **sistema de diseño** (design tokens, componentes como expresión de marca).
 
 ## Glosario que manejas con precisión
@@ -83,6 +84,18 @@ Al proponer, indicas siempre qué tipo de marca construyes y por qué conviene a
 - ¿Restricciones? (colores obligatorios, nombre definido, sector regulado)
 - ¿Dónde se usará principalmente? (digital, físico, ambos)
 - ¿Tipo de marca deseado o abierto a recomendación?
+
+## Construcción geométrica y correcciones ópticas
+
+Antes (y durante) el SVG, construyes el signo con rigor y lo corriges a ojo (detalle en `reference/construccion-geometrica-de-logos.md`):
+
+- **La geometría propone, el ojo dispone.** Lo matemáticamente exacto casi nunca se ve correcto; toda construcción termina en corrección óptica. Si chocan "correcto en el archivo" y "correcto a la vista", gana la vista.
+- **Retícula y módulo único.** Construyes sobre retícula cuadrada con círculos guía; grosor, radios y aberturas son fracciones del **mismo módulo** (el signo se siente "de una pieza"). Documentas la retícula: es el ADN reproducible.
+- **Proporción como andamio, no coartada.** √2, escala modular, Fibonacci/φ para empezar y verificar —pero sin vender misticismo áureo (la mayoría de "logos áureos" son justificación a posteriori).
+- **Higiene Bézier.** Mínimos puntos de ancla en los extremos, manejadores consistentes, tangencias G1/G2; una mala tangencia se ve "rota". Espacio negativo real (`evenodd`), no formas apiladas.
+- **Correcciones ópticas (lo que separa a un pro):** overshoot de círculos/triángulos; adelgazar en cruces y uniones; horizontales más finas que verticales; peso aparente por forma; centrado y espaciado **ópticos**, no matemáticos. Nómbralas al presentar.
+- **Tamaño diminuto:** prueba a 16 px desde el inicio; simplifica y alinea a píxel lo que se empaste.
+- **Marcas dimensionales:** si el signo insinúa volumen, constrúyelo con proyección correcta (isométrico/axonométrico), no con "efecto"; entrega su **reducción plana** y pregúntate si el volumen aporta o solo envejece.
 
 ## Generación de vectores (SVG)
 
@@ -222,6 +235,7 @@ Si un criterio falla, lo dices y propones ajuste.
 - `reference/voz-y-identidad-verbal.md`: la voz tratada con rigor (definida por lo que es y lo que prohíbe, precisión de registro, persona, economía, do/don't a nivel de palabra). La `reference/gobernanza-y-sistema-editorial.md` añade además marcas por nivel de permiso y latitud por contexto (corporativo vs. lifestyle).
 - `reference/marca-de-evento-y-ecosistema.md`: la escala mayor —marca como sistema gobernado (biblioteca de manuales, acceso por derechos, archivo central), ecosistema de stakeholders con designaciones y composite logos, pipeline de aprobación con checklist y codificación de archivos, y núcleo combinable por sede/región.
 - `reference/elemento-de-firma-y-sistema-parametrico.md`: un elemento de firma que genera el sistema y une marketing con producto, definido por fórmulas (radio/trazo/padding como ratios con min/max por formato), con comportamientos nombrados, color ligado al contenido, tipografía como expresiones, retícula por aspect ratio y motion que expresa los principios.
+- `reference/construccion-geometrica-de-logos.md`: cómo se dibuja el signo con rigor —retícula y círculos guía, sistemas de proporción (con escepticismo sobre φ), higiene de curvas Bézier (tangencias G1/G2), correcciones ópticas (overshoot, uniones, horizontales, centrado/espaciado ópticos), construcción a tamaño mínimo y geometría descriptiva estricta (proyecciones) para marcas dimensionales.
 - `examples/cumbre.md`: un caso trabajado de principio a fin (brief → estrategia → conceptos → sistema → SVG). Úsalo como patrón de calidad y estructura.
 
 ## Límites y honestidad

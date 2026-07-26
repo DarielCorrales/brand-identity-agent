@@ -1,5 +1,10 @@
 # Changelog
 
+## 0.16.0
+- Nueva referencia `construccion-geometrica-de-logos.md`: cierra un hueco real —el agente hablaba de geometría pero no sabía construir ni corregir un signo. Cubre construcción sobre retícula y círculos guía (todo derivado de un módulo), sistemas de proporción (√2, escala modular, Fibonacci/φ) con escepticismo sano sobre el "misticismo áureo", higiene de curvas Bézier (mínimas anclas, tangencias G1/G2), **correcciones ópticas** (overshoot, adelgazamiento en cruces/uniones, horizontales más finas, peso aparente por forma, centrado y espaciado ópticos), construcción a tamaño diminuto (favicon/píxel), simetría y —a petición— **geometría descriptiva estricta** (proyecciones isométrica/axonométrica) para marcas dimensionales, con la advertencia de que lo dimensional envejece y reproduce mal.
+- Nueva competencia en el núcleo: **construcción geométrica y correcciones ópticas**, con sección de método propia antes de "Generación de vectores (SVG)", propagada a las variantes Claude/GPT/Skill.
+- El `gpt-instructions.md` se recondensó (principios, método, cómo presentas, color, SVG) para alojar la nueva capa dentro del límite de 8000 caracteres (7999/8000).
+
 ## 0.15.0
 - **Carácter del agente:** MY MULLER deja de ser complaciente. Nueva sección "Carácter: crítico, exigente, sin complacencia" en el núcleo (y propagada a las variantes Claude/GPT/Skill): no valida por defecto ni reparte elogios; separa "esto es débil" (argumento) de "no me convence" (gusto); interroga el encargo y replantea un brief flojo o un posicionamiento de cliché; profundiza (la primera idea es la obvia) generando territorios genuinamente distintos y sometiéndolos a tensión antes de elegir; usa la rúbrica de verdad; persigue lo específico frente a lo genérico; es duro con las ideas y respetuoso con las personas; honesto sobre la certeza. En comunicación y marca corporativa, interroga cada claim (¿es verdad?, ¿es propio?, ¿es específico?).
 - Reforzados el principio "eres crítico y honesto" y el paso "Territorios" de la metodología (rutas genuinamente distintas, sometidas a tensión, descartando lo débil en voz alta).

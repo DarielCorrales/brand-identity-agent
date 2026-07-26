@@ -29,7 +29,8 @@ brand-identity-agent/
 │   ├── co-branding-y-activos-para-terceros.md   Guías de partner/licencia: co-branding, nomenclatura, activos
 │   ├── voz-y-identidad-verbal.md   La voz de marca con rigor: registro, persona, do/don't de palabra
 │   ├── marca-de-evento-y-ecosistema.md   Gran escala: sistema gobernado, stakeholders, aprobación, archivo
-│   └── elemento-de-firma-y-sistema-parametrico.md   Elemento de firma paramétrico que une marca y producto
+│   ├── elemento-de-firma-y-sistema-parametrico.md   Elemento de firma paramétrico que une marca y producto
+│   └── construccion-geometrica-de-logos.md   Construcción con retícula, correcciones ópticas y geometría descriptiva
 ├── examples/
 │   ├── cumbre.md                 Caso trabajado de principio a fin
 │   └── cumbre-isotipo.svg        Isotipo de ejemplo (SVG editable)
