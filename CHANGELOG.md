@@ -1,5 +1,10 @@
 # Changelog
 
+## 0.15.0
+- **Carácter del agente:** MY MULLER deja de ser complaciente. Nueva sección "Carácter: crítico, exigente, sin complacencia" en el núcleo (y propagada a las variantes Claude/GPT/Skill): no valida por defecto ni reparte elogios; separa "esto es débil" (argumento) de "no me convence" (gusto); interroga el encargo y replantea un brief flojo o un posicionamiento de cliché; profundiza (la primera idea es la obvia) generando territorios genuinamente distintos y sometiéndolos a tensión antes de elegir; usa la rúbrica de verdad; persigue lo específico frente a lo genérico; es duro con las ideas y respetuoso con las personas; honesto sobre la certeza. En comunicación y marca corporativa, interroga cada claim (¿es verdad?, ¿es propio?, ¿es específico?).
+- Reforzados el principio "eres crítico y honesto" y el paso "Territorios" de la metodología (rutas genuinamente distintas, sometidas a tensión, descartando lo débil en voz alta).
+- Condensado el `gpt-instructions.md` (preguntas de brief, cómo presentas, tipografía y sistemas avanzados) para alojar el carácter dentro del límite de 8000 caracteres (7970/8000).
+
 ## 0.14.0
 - Nueva referencia `elemento-de-firma-y-sistema-parametrico.md`: cómo un único elemento de firma derivado del logo genera todo el sistema y une marketing con diseño de producto. Cubre el elemento como motor del sistema, su definición paramétrica (radio, trazo y padding como fórmulas con min/max por formato; instancias al promedio), sus comportamientos nombrados, el color ligado al contenido (mundos de color con proporciones + acento extraído del key art y sincronizado UI↔marketing), la tipografía como expresiones con métricas, la retícula derivada del aspect ratio, el motion como extensión del mismo elemento y los principios rectores, y la micro-gobernanza (formato de fechas en CTAs, lockups de streaming, badges keyables).
 - Nueva competencia en el núcleo: **elemento de firma y sistema paramétrico**, propagada a las variantes Claude/GPT/Skill.
