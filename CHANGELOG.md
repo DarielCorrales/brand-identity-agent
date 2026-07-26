@@ -1,5 +1,10 @@
 # Changelog
 
+## 0.12.0
+- Nueva referencia `voz-y-identidad-verbal.md`: la voz de marca tratada con el rigor del logo (definida por lo que es y lo que prohíbe, precisión de registro con palabras preferidas y prohibidas, persona/punto de vista, economía de frase, do/don't a nivel de palabra y jerarquía de mensaje por universalidad). Es el "cómo se habla" que acompaña a la plantilla `brand-foundations.md`.
+- Ampliada `gobernanza-y-sistema-editorial.md` con una sección nueva: **marcas por nivel de permiso y derechos de distribución** (quién autoriza cada expresión y cuál puede cederse a terceros) y **latitud por contexto** (corporativo al pie de la letra vs. lifestyle con más libertad sobre un suelo innegociable).
+- Nueva competencia en el núcleo: **voz e identidad verbal**, propagada a las variantes Claude/GPT/Skill.
+
 ## 0.11.0
 - Nueva referencia `co-branding-y-activos-para-terceros.md`: la capa "hacia afuera" del sistema, para cuando un tercero (partner, licenciatario, co-branding) usa la marca junto a la suya. Cubre higiene de marca contra el genericidio (nomenclatura aprobada vs. no aprobada, ™/línea legal, "el nombre no es verbo"), balance de co-branding como proporción marca↔contenido, lockup primario/secundario y la regla —estratégica, no universal— de si el símbolo puede ir solo, color por espacio de color y medio (sRGB pantalla/vídeo/Adobe RGB además de CMYK/Pantone), biblioteca de activos gobernada (categorías, nombres codificados, reglas de selección, ediciones permitidas cerradas) y entrega técnica de vídeo (intro + placa final, specs de codificación, clasificaciones de edad).
 - Nueva competencia en el núcleo: **co-branding y activos para terceros**, con su método propagado a las variantes.

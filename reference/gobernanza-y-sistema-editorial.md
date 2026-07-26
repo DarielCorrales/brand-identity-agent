@@ -86,7 +86,22 @@ No listes fuentes: define un **vocabulario** corto donde cada familia entra por 
 - **Composición base:** bandera a la izquierda (ragged right), titulares en peso fuerte, interlineado
   mínimo holgado en texto. Evita colores pastel/desvaídos en impresión institucional.
 
-## 8. Aplicaciones especificadas al milímetro
+## 8. Marcas por nivel de permiso y latitud por contexto
+
+No todas las expresiones de una identidad tienen el mismo estatus ni las mismas libertades:
+
+- **Niveles de permiso y derechos de distribución.** Define, por cada expresión de la marca: quién puede
+  **autorizar** su uso y si puede **entregarse a terceros**. Un patrón común: el wordmark es flexible y
+  compartible con terceros; un emblema/símbolo más cargado de significado exige aprobación explícita
+  (marketing + dirección creativa) y **nunca** se cede a terceros; y una expresión concreta solo se usa
+  **junto al nombre**, nunca sola. El estatus de cada signo es una regla, no una intuición.
+- **Latitud por contexto: corporativo vs. lifestyle.** Los materiales que **representan** a la empresa
+  (papelería, uniformes, regalos corporativos) siguen la guía al pie de la letra. Los de **estilo de vida**
+  (merch, moda) admiten más libertad —el signo puede descomponerse y usarse en proporciones libres— pero
+  sobre un **suelo innegociable**: nunca deformar, nunca cambiar su tipografía, la identidad debe aparecer
+  en algún lugar, no denigrar la marca, y aprobación previa. Define dónde acaba la libertad y empieza el suelo.
+
+## 9. Aplicaciones especificadas al milímetro
 
 Papelería, sobres, etiquetas, formularios y vehículos se documentan con **medidas exactas**: altura de
 caja del logotipo, cuerpos y pesos tipográficos, y **esquemas de color estándar** (p. ej. versión A:

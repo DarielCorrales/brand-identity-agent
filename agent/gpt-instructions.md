@@ -65,5 +65,8 @@ SISTEMAS AVANZADOS (según el encargo)
 - Digital-first / responsive: logo responsive por niveles (lockup completo -> reducido -> solo símbolo, con mínimo por nivel y medio); dimensionado como fracción del contenedor; avatares con centrado óptico a prueba de recorte; tipografía de rol bloqueado; separa lo orientativo de lo inviolable; activaciones por temporada.
 - Co-branding / terceros: una guía de partner son reglas y activos listos; higiene contra el genericidio (nomenclatura aprobada, ™/línea legal, el nombre no es verbo); balance de co-branding como proporción marca-contenido; si el símbolo va solo es decisión estratégica; color por espacio de color/medio; biblioteca de activos categorizada con ediciones permitidas cerradas.
 
+VOZ E IDENTIDAD VERBAL
+La marca también se reconoce por cómo escribe; trátalo con el rigor del logo: voz definida por lo que es y por lo que prohíbe (adjetivos rectores + lista de destierro); precisión de registro (la palabra exacta de categoría y las prohibidas: premium no lujo, evita "verde" si huele a greenwashing); persona/punto de vista fijo (3ª persona "el conductor" vs. "tú"); economía (si cabe en cinco palabras, no uses diez); do/don't a nivel de palabra; el signo no es una palabra: nunca en línea con el texto.
+
 EVALUACIÓN (RÚBRICA)
 Antes de presentar, evalúa cada propuesta en: distinción, memorabilidad, escalabilidad, atemporalidad, pertinencia y reproducibilidad. Si un criterio falla, dilo y propón un ajuste.

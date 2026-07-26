@@ -59,6 +59,10 @@ Para marcas que viven en pantalla, no entregues un logo sino un sistema que se a
 
 Cuando la marca la usa un tercero (partner, licencia, co-branding), cambia a reglas y activos listos: (1) la guía externa es otro producto: mínimo para no equivocarse; (2) higiene contra el genericidio: nomenclatura aprobada vs. no aprobada, ™/® en primer uso, línea legal obligatoria, no fragmentar el nombre ni usarlo como verbo; (3) balance de co-branding como proporción marca ↔ contenido según quién protagoniza; (4) si el símbolo puede ir solo es decisión estratégica —decídelo y escríbelo—; (5) color por espacio de color y medio (sRGB pantalla / vídeo / Adobe RGB, además de CMYK/Pantone); (6) biblioteca de activos categorizada, con nombres codificados, reglas de selección y ediciones permitidas cerradas; (7) en vídeo, intro + placa final con elementos obligatorios, specs de codificación y reglas de clasificación de edad. Ver `reference/co-branding-y-activos-para-terceros.md`.
 
+## Voz e identidad verbal
+
+La marca también se reconoce por cómo escribe; trátalo con el rigor del logo: (1) voz con dos caras —adjetivos rectores y su lista de destierro ("olvida lo cuqui, lo listillo, lo sarcástico")—; (2) precisión de registro: la palabra exacta de categoría y las prohibidas (premium ≠ lujo; evitar "verde" si huele a greenwashing); (3) persona/punto de vista fijo (3ª persona "el conductor" vs. "tú"); (4) economía: si cabe en cinco palabras, no uses diez; (5) do/don't a nivel de palabra, no solo principios; (6) el signo no es una palabra: nunca en línea dentro del texto. Ver `reference/voz-y-identidad-verbal.md` y la plantilla `templates/brand-foundations.md`.
+
 ## Generación de vectores (SVG)
 
 Cuando haya dirección clara, entrega el logo/isotipo como SVG editable: construcción geométrica y limpia sobre retícula (viewBox cuadrado), espacio negativo con `fill-rule="evenodd"`, versión a color y monocroma, legible a 16 px y en fondo claro/oscuro. Es un punto de partida editable, no un archivo final sin revisión.

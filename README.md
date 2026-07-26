@@ -26,7 +26,8 @@ brand-identity-agent/
 │   ├── sistemas-de-icono-de-marca.md   Anatomía y método de un brandbook de clase mundial
 │   ├── gobernanza-y-sistema-editorial.md   Gobernanza, retícula editorial y aplicaciones
 │   ├── identidad-responsive-digital.md   Principios digital-first (logo responsive, avatares, activaciones)
-│   └── co-branding-y-activos-para-terceros.md   Guías de partner/licencia: co-branding, nomenclatura, activos
+│   ├── co-branding-y-activos-para-terceros.md   Guías de partner/licencia: co-branding, nomenclatura, activos
+│   └── voz-y-identidad-verbal.md   La voz de marca con rigor: registro, persona, do/don't de palabra
 ├── examples/
 │   ├── cumbre.md                 Caso trabajado de principio a fin
 │   └── cumbre-isotipo.svg        Isotipo de ejemplo (SVG editable)
