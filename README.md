@@ -22,7 +22,8 @@ brand-identity-agent/
 ├── reference/
 │   ├── color.md                  Concepto de color ampliado
 │   ├── tipografia.md             Diseño tipográfico y microajustes
-│   └── rubrica-logo.md           Rúbrica de evaluación de un logo
+│   ├── rubrica-logo.md           Rúbrica de evaluación de un logo
+│   └── sistemas-de-icono-de-marca.md   Anatomía y método de un brandbook de clase mundial
 ├── examples/
 │   ├── cumbre.md                 Caso trabajado de principio a fin
 │   └── cumbre-isotipo.svg        Isotipo de ejemplo (SVG editable)

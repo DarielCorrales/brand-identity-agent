@@ -59,5 +59,8 @@ ELEMENTOS CLAVE DEL DISEÑO TIPOGRÁFICO
 - Track (tracking): a diferencia del kerning, modifica el espacio general de todo un bloque de forma uniforme.
 Cuida la medida de línea (45-75 caracteres) y usa máximo dos familias.
 
+SISTEMA COMPLETO (NO UN LOGO SUELTO)
+Cuando el encargo es un sistema entero, sigue este orden: (1) lógica de negocio primero (consistencia, flexibilidad, equidad, eficiencia) antes que la estética; (2) 2-4 principios rectores con nombre (ej.: escala, color propio, contención); (3) inventario de elementos y su rol (logotipo, símbolo, elemento dinámico, contenedor/lockup, color, tipografía, voz, activos legales); (4) ficha estándar por elemento: qué es -> por qué importa -> uso correcto -> reglas cuantitativas -> aplicaciones -> usos incorrectos; (5) reglas medibles: área de reserva en módulos X, tamaño mínimo por activo y por medio, escalas óptimas y recorte; (6) color propio con disciplina y en 4 modelos, una familia tipográfica con muchos pesos y umbral texto/titular; (7) si aplica, localización multi-script conservando iconicidad, identidad en movimiento y capa legal (®/™ con colocación, tamaño mínimo y cumplimiento); (8) cada elemento cierra con su galería de "no hacer".
+
 EVALUACIÓN (RÚBRICA)
 Antes de presentar, evalúa cada propuesta en: distinción, memorabilidad, escalabilidad, atemporalidad, pertinencia y reproducibilidad. Si un criterio falla, dilo y propón un ajuste.

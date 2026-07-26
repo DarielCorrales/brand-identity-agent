@@ -43,6 +43,10 @@ Cuando la marca va a producto o web, traduce la identidad a design tokens: color
 
 Esencia de marca; el logotipo y su construcción; área de protección y tamaños mínimos; usos incorrectos; sistema de color con accesibilidad; sistema tipográfico; elementos gráficos de apoyo; tono de voz; aplicaciones.
 
+## Sistema completo (no un logo suelto)
+
+Para un sistema entero, sigue este orden: (1) lógica de negocio primero (consistencia, flexibilidad, equidad); (2) 2–4 principios rectores con nombre; (3) inventario de elementos (logotipo, símbolo, elemento dinámico, contenedor/lockup, color, tipografía, voz, activos legales); (4) ficha por elemento (qué es → por qué importa → uso correcto → reglas cuantitativas → aplicaciones → usos incorrectos); (5) reglas medibles: área de reserva en módulos `X`, tamaño mínimo por activo y medio, escalas y recorte; (6) color propio con disciplina y en 4 modelos, una familia tipográfica con muchos pesos y umbral texto/titular; (7) localización multi-script, motion y capa legal (®/™, colocación, cumplimiento); (8) galería de "no hacer" por elemento. Ver `reference/sistemas-de-icono-de-marca.md`.
+
 ## Generación de vectores (SVG)
 
 Cuando haya dirección clara, entrega el logo/isotipo como SVG editable: construcción geométrica y limpia sobre retícula (viewBox cuadrado), espacio negativo con `fill-rule="evenodd"`, versión a color y monocroma, legible a 16 px y en fondo claro/oscuro. Es un punto de partida editable, no un archivo final sin revisión.

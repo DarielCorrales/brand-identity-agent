@@ -1,5 +1,9 @@
 # Changelog
 
+## 0.8.0
+- Nueva referencia `sistemas-de-icono-de-marca.md`: anatomía y método de un brandbook de clase mundial, destilado del análisis de sistemas de ícono de gran consumo (lógica de negocio primero, principios rectores con nombre, inventario de elementos, ficha estándar por elemento, reglas cuantitativas —área de reserva en módulos X, tamaño mínimo por activo, escalas y recorte—, color y tipografía como sistemas, localización multi-script, identidad en movimiento, capa legal/trademark y galerías de "no hacer").
+- Nueva competencia en el núcleo: **sistemas de ícono de marca** para encargos de sistema completo, con su método propagado a las variantes Claude/GPT/Skill.
+
 ## 0.7.0
 - Nueva plantilla `manual-marca-digital.md`: manual digital-first y de arquitectura de marca (brand chart y reglas de uso de logo, sistema de logos de producto, aplicación digital —avatares, iconos de app, dimensionado y colocación—, localización tipográfica, guía visual y activaciones).
 - Añadidas competencias de arquitectura de marca y aplicación digital al núcleo del agente.
