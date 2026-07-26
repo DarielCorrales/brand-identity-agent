@@ -28,7 +28,8 @@ brand-identity-agent/
 │   ├── identidad-responsive-digital.md   Principios digital-first (logo responsive, avatares, activaciones)
 │   ├── co-branding-y-activos-para-terceros.md   Guías de partner/licencia: co-branding, nomenclatura, activos
 │   ├── voz-y-identidad-verbal.md   La voz de marca con rigor: registro, persona, do/don't de palabra
-│   └── marca-de-evento-y-ecosistema.md   Gran escala: sistema gobernado, stakeholders, aprobación, archivo
+│   ├── marca-de-evento-y-ecosistema.md   Gran escala: sistema gobernado, stakeholders, aprobación, archivo
+│   └── elemento-de-firma-y-sistema-parametrico.md   Elemento de firma paramétrico que une marca y producto
 ├── examples/
 │   ├── cumbre.md                 Caso trabajado de principio a fin
 │   └── cumbre-isotipo.svg        Isotipo de ejemplo (SVG editable)

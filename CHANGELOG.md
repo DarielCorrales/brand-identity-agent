@@ -1,5 +1,10 @@
 # Changelog
 
+## 0.14.0
+- Nueva referencia `elemento-de-firma-y-sistema-parametrico.md`: cómo un único elemento de firma derivado del logo genera todo el sistema y une marketing con diseño de producto. Cubre el elemento como motor del sistema, su definición paramétrica (radio, trazo y padding como fórmulas con min/max por formato; instancias al promedio), sus comportamientos nombrados, el color ligado al contenido (mundos de color con proporciones + acento extraído del key art y sincronizado UI↔marketing), la tipografía como expresiones con métricas, la retícula derivada del aspect ratio, el motion como extensión del mismo elemento y los principios rectores, y la micro-gobernanza (formato de fechas en CTAs, lockups de streaming, badges keyables).
+- Nueva competencia en el núcleo: **elemento de firma y sistema paramétrico**, propagada a las variantes Claude/GPT/Skill.
+- El `gpt-instructions.md` se condensó de nuevo (sección "Sistemas avanzados") para respetar el límite de 8000 caracteres al añadir la sexta capa.
+
 ## 0.13.0
 - Nueva referencia `marca-de-evento-y-ecosistema.md`: la escala mayor del sistema, cuando la marca la usan muchos actores oficiales a la vez (evento, federación, plataforma). Cubre la marca como sistema gobernado (biblioteca de manuales especializados, acceso por derechos contractuales, archivo central de activos, versionado), el ecosistema de stakeholders (designaciones oficiales por nivel, composite logos con plantilla, tiras de logos y backdrops), el pipeline de aprobación (proceso previo, checklist de prevuelo, codificación de nombres de archivo), la identidad de núcleo combinable que flexiona por sede/región, y la capa legal/IP (™/®, consentimiento de imágenes, confidencialidad).
 - Nueva competencia en el núcleo: **marca de evento y ecosistema**, propagada a las variantes Claude/GPT/Skill.
