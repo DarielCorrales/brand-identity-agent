@@ -1,5 +1,9 @@
 # Changelog
 
+## 0.18.0
+- Nuevo caso trabajado `examples/planix-caso.md` (con `planix-piramide-madurez.svg`): crítica de marca + sistema editorial aterrizado + pirámide de madurez 3-2-1 rehecha, **con autocrítica honesta** de lo que el agente aún no resuelve (distinción del símbolo). Sube el eje "validación": el agente aprende de casos reales, no de más teoría.
+- Documenta el **bucle render→crítica** como patrón por defecto al entregar vectores: generar SVG → rasterizar → mirar el resultado real → corregir (v1 no leía como pirámide y una etiqueta salía cortada; v2 lo arregla). Convierte "sabe decir" en "sabe hacer y comprobar".
+
 ## 0.17.0
 - Nueva referencia `diseno-editorial.md`: sube el diseño editorial de "cimiento" a "oficio". Cubre proporción de página y cánones de margen (Van de Graaf/Tschichold/áureo; interior < superior < exterior < inferior), taxonomía de retículas (manuscrito/columnas/modular/jerárquica + medianil), **línea base y ritmo vertical**, escala tipográfica y jerarquía de documento, **oficio de cuerpo** (medida 45–75, viudas/huérfanas, ríos, H&J, sangría vs. espacio, tipográficas), anatomía de la página (cornisas, folios, sumarios, ladillos, pies, notas, tablas, citas), imagen en maqueta, color/contraste, ritmo y *pacing* (el spread como unidad), y **producción de imprenta** (sangrado, imposición, plana vs. cuatricromía, límite de tinta, papel, plegado/encuadernación, PDF/X).
 - Nueva competencia en el núcleo: **diseño editorial (maquetación y producción)**, con sección de método propia, propagada a las variantes Claude/GPT/Skill.

@@ -34,7 +34,9 @@ brand-identity-agent/
 │   └── diseno-editorial.md   Maquetación de publicaciones: retículas, ritmo, oficio de cuerpo y producción de imprenta
 ├── examples/
 │   ├── cumbre.md                 Caso trabajado de principio a fin
-│   └── cumbre-isotipo.svg        Isotipo de ejemplo (SVG editable)
+│   ├── cumbre-isotipo.svg        Isotipo de ejemplo (SVG editable)
+│   ├── planix-caso.md            Caso real: crítica + sistema editorial + pirámide (con autocrítica)
+│   └── planix-piramide-madurez.svg   Pirámide de madurez 3-2-1 (SVG editable, bucle render→crítica)
 └── templates/
     ├── brief-marca.md            Cuestionario de brief para arrancar un proyecto
     ├── brand-foundations.md      Bases de marca: valores, mensajería, tono de voz, personaje
