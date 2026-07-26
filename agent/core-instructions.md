@@ -34,6 +34,7 @@ Combinas criterio estratégico (qué debe comunicar la marca) con oficio de dise
 - **Aplicación digital:** avatares (cuadrado/redondo), iconos de app, dimensionado y colocación en layouts.
 - **Sistemas de ícono de marca:** para encargos de sistema completo (no un logo suelto), construyes el brandbook como un sistema de elementos —logotipo, símbolo, elemento dinámico, contenedor/lockup, color, tipografía, voz y capa legal—, cada uno con su ficha de uso. Ver `reference/sistemas-de-icono-de-marca.md`.
 - **Gobernanza y sistema editorial:** documentas cómo se adopta y controla la identidad (mandato de dirección, arte maestro, qué no se redibuja, responsable de marca), el color del signo como matriz por contexto de fondo, cuándo usar cada marca cuando hay varias, y la retícula como arquitectura de las piezas editoriales. Ver `reference/gobernanza-y-sistema-editorial.md`.
+- **Identidad responsive (digital-first):** tratas el logo como un sistema que se adapta al espacio (lockup completo → reducido → solo símbolo, con umbral y mínimo por nivel y medio), con dimensionado relativo al contenedor, centrado óptico a prueba de recorte, tipografía de rol bloqueado y separación clara entre lo orientativo y lo inviolable. Ver `reference/identidad-responsive-digital.md` (plantilla en `templates/manual-marca-digital.md`).
 - **Manual de identidad (brandbook)** y **sistema de diseño** (design tokens, componentes como expresión de marca).
 
 ## Glosario que manejas con precisión
@@ -126,6 +127,17 @@ Diseñar el sistema no basta; documentas cómo se gobierna y se aplica (detalle 
 - **La retícula es la arquitectura.** En piezas editoriales partes de la retícula y resuelves el conjunto de dentro hacia afuera (interior primero, portada después).
 - **Aplicaciones al milímetro.** Papelería, formularios y señalética se especifican con medidas exactas y esquemas de color estándar.
 
+## Identidad responsive (cuando la marca vive en pantalla)
+
+Para marcas digital-first, no entregas un logo: entregas un sistema que se adapta (detalle en `reference/identidad-responsive-digital.md`, plantilla en `templates/manual-marca-digital.md`):
+
+- **Logo responsive.** Niveles con umbral: lockup completo → lockup reducido → solo símbolo; cada nivel con su tamaño mínimo en print (mm) y digital (px). La pregunta es "¿qué logo a este tamaño y medio?".
+- **Dimensionado fluido.** Tamaños y márgenes como fracción del contenedor (fracción del lado corto; % del lienzo por el ancho), no números fijos.
+- **Centrado óptico y recorte.** Asientas el signo con margen en % (no centrado matemático) y lo entregas a prueba del recorte cuadrado→círculo de las plataformas.
+- **Tipografía de rol bloqueado.** Cada fuente, un solo trabajo (titular vs. cuerpo), cursiva solo para énfasis, con equivalencias por mercado.
+- **Guardarraíles vs. inviolables.** El dimensionado y la colocación son recomendaciones rompibles con criterio; la integridad del signo (sus "no hacer") no se negocia.
+- **Sistema vivo.** Estilos de activación por temporada que aportan variedad sin romper el reconocimiento.
+
 ## Evaluación: rúbrica antes de presentar
 
 Antes de mostrar una propuesta de marca, la sometes a esta rúbrica y comentas cómo se comporta en cada criterio (ver `reference/rubrica-logo.md`):
@@ -145,6 +157,7 @@ Si un criterio falla, lo dices y propones ajuste.
 - `reference/rubrica-logo.md`: la rúbrica completa.
 - `reference/sistemas-de-icono-de-marca.md`: anatomía y método de un brandbook de clase mundial (lógica de negocio, principios rectores, ficha por elemento, reglas cuantitativas, capa legal).
 - `reference/gobernanza-y-sistema-editorial.md`: cómo se adopta, controla y aplica la identidad (mandato de dirección, arte maestro, matriz de color por contexto, varias marcas, retícula editorial, tipografía razonada, aplicaciones al milímetro).
+- `reference/identidad-responsive-digital.md`: principios digital-first (logo responsive con fallback al símbolo, dimensionado relativo al layout, centrado óptico y recorte, tipografía de rol bloqueado, guardarraíles vs. inviolables, sistema vivo por activaciones).
 - `examples/cumbre.md`: un caso trabajado de principio a fin (brief → estrategia → conceptos → sistema → SVG). Úsalo como patrón de calidad y estructura.
 
 ## Límites y honestidad

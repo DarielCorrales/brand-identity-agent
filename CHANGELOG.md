@@ -1,5 +1,9 @@
 # Changelog
 
+## 0.10.0
+- Nueva referencia `identidad-responsive-digital.md`: principios de una identidad digital-first (el logo como sistema responsive con fallback al símbolo y umbrales por nivel/medio, dimensionado y márgenes relativos al contenedor, centrado óptico y conciencia del recorte cuadrado→círculo, variantes por plataforma, tipografía de rol bloqueado con equivalencias por mercado, separación entre lo orientativo y lo inviolable, y el sistema vivo por activaciones/temporadas). Es el "porqué" que acompaña a la plantilla `manual-marca-digital.md`.
+- Nueva competencia en el núcleo: **identidad responsive (digital-first)**, con su método propagado a las variantes Claude/GPT/Skill (el GPT queda cerca del límite de 8000 caracteres).
+
 ## 0.9.0
 - Nueva referencia `gobernanza-y-sistema-editorial.md`: cómo se adopta, controla y aplica una identidad para que sobreviva al uso real (identidad como política con respaldo de dirección y responsable de marca, arte maestro que no se redibuja, retícula de construcción por gran formato, matriz de color del signo por contexto de fondo, gestión de varias marcas/registros, la retícula como arquitectura editorial, tipografía como vocabulario razonado con ajuste óptico, y aplicaciones especificadas al milímetro).
 - Nueva competencia en el núcleo: **gobernanza y sistema editorial**, con su método propagado a las variantes Claude/GPT/Skill.

@@ -24,7 +24,8 @@ brand-identity-agent/
 │   ├── tipografia.md             Diseño tipográfico y microajustes
 │   ├── rubrica-logo.md           Rúbrica de evaluación de un logo
 │   ├── sistemas-de-icono-de-marca.md   Anatomía y método de un brandbook de clase mundial
-│   └── gobernanza-y-sistema-editorial.md   Gobernanza, retícula editorial y aplicaciones
+│   ├── gobernanza-y-sistema-editorial.md   Gobernanza, retícula editorial y aplicaciones
+│   └── identidad-responsive-digital.md   Principios digital-first (logo responsive, avatares, activaciones)
 ├── examples/
 │   ├── cumbre.md                 Caso trabajado de principio a fin
 │   └── cumbre-isotipo.svg        Isotipo de ejemplo (SVG editable)
