@@ -1,5 +1,10 @@
 # Changelog
 
+## 0.11.0
+- Nueva referencia `co-branding-y-activos-para-terceros.md`: la capa "hacia afuera" del sistema, para cuando un tercero (partner, licenciatario, co-branding) usa la marca junto a la suya. Cubre higiene de marca contra el genericidio (nomenclatura aprobada vs. no aprobada, ™/línea legal, "el nombre no es verbo"), balance de co-branding como proporción marca↔contenido, lockup primario/secundario y la regla —estratégica, no universal— de si el símbolo puede ir solo, color por espacio de color y medio (sRGB pantalla/vídeo/Adobe RGB además de CMYK/Pantone), biblioteca de activos gobernada (categorías, nombres codificados, reglas de selección, ediciones permitidas cerradas) y entrega técnica de vídeo (intro + placa final, specs de codificación, clasificaciones de edad).
+- Nueva competencia en el núcleo: **co-branding y activos para terceros**, con su método propagado a las variantes.
+- El `gpt-instructions.md` se reorganizó: las secciones de sistema completo, gobernanza, digital-first y co-branding se consolidaron en una sola "Sistemas avanzados" para respetar el límite de 8000 caracteres (queda en ~7000).
+
 ## 0.10.0
 - Nueva referencia `identidad-responsive-digital.md`: principios de una identidad digital-first (el logo como sistema responsive con fallback al símbolo y umbrales por nivel/medio, dimensionado y márgenes relativos al contenedor, centrado óptico y conciencia del recorte cuadrado→círculo, variantes por plataforma, tipografía de rol bloqueado con equivalencias por mercado, separación entre lo orientativo y lo inviolable, y el sistema vivo por activaciones/temporadas). Es el "porqué" que acompaña a la plantilla `manual-marca-digital.md`.
 - Nueva competencia en el núcleo: **identidad responsive (digital-first)**, con su método propagado a las variantes Claude/GPT/Skill (el GPT queda cerca del límite de 8000 caracteres).
