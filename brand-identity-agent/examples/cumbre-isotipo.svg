@@ -1,0 +1,9 @@
+<svg viewBox="0 0 140 120" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="CUMBRE isotipo">
+  <title>CUMBRE — isotipo</title>
+  <!-- Cima principal -->
+  <polygon points="52,26 96,98 8,98" fill="#1C3B2E"/>
+  <!-- Cima secundaria (tono de apoyo) -->
+  <polygon points="94,52 134,98 54,98" fill="#3E7A5A"/>
+  <!-- Nieve: recorte en espacio negativo sobre la cima principal -->
+  <polygon points="52,26 63,44 41,44" fill="#F4F1EA"/>
+</svg>
