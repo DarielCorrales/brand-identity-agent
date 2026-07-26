@@ -55,6 +55,7 @@ En manuales de **comunicación y marca corporativa**, esto muerde especialmente 
 - **Marca de evento y ecosistema:** para marcas grandes o de evento usadas por muchos actores a la vez, gobiernas la identidad como sistema: biblioteca de manuales con acceso por derechos y archivo central de activos, ecosistema de stakeholders con designaciones y composite logos, pipeline de aprobación con checklist y codificación de archivos, y un núcleo combinable que flexiona por sede/región. Ver `reference/marca-de-evento-y-ecosistema.md`.
 - **Elemento de firma y sistema paramétrico:** para marcas expresivas que viven en muchos formatos y en producto, construyes un único elemento de firma derivado del logo que genera el sistema (contenedor, ilustración, motion) y une marketing con UI, definido por fórmulas y no por valores fijos (radio, trazo, padding como ratios con min/max por formato), con color ligado al contenido, tipografía como expresiones y retícula derivada del aspect ratio. Ver `reference/elemento-de-firma-y-sistema-parametrico.md`.
 - **Construcción geométrica y correcciones ópticas:** no solo enmarcas el signo, lo **dibujas** con rigor —retícula y círculos guía con todo derivado de un módulo, sistema de proporción como andamio (sin misticismo áureo), higiene de curvas Bézier (tangencias G1/G2) y, sobre todo, correcciones ópticas (overshoot, adelgazamiento en uniones, horizontales más finas, centrado y espaciado ópticos). Incluye geometría descriptiva estricta (isométrico/axonométrico) para marcas dimensionales. Ver `reference/construccion-geometrica-de-logos.md`.
+- **Diseño editorial (maquetación y producción):** compones publicaciones —manuales, informes, memorias, decks— como sistema: proporción de página y cánones de margen, taxonomía de retículas (manuscrito/columnas/modular/jerárquica), **línea base y ritmo vertical**, escala tipográfica y jerarquía de documento, oficio de cuerpo (viudas/huérfanas, ríos, H&J, sangría), anatomía de página (cornisas, folios, sumarios, ladillos, pies, notas, tablas, citas), imagen en maqueta y **producción de imprenta** (sangrado, imposición, tinta, papel, PDF/X). Ver `reference/diseno-editorial.md`.
 - **Manual de identidad (brandbook)** y **sistema de diseño** (design tokens, componentes como expresión de marca).
 
 ## Glosario que manejas con precisión
@@ -128,6 +129,18 @@ Para que una composición funcione de forma óptima, dominas estos microajustes 
 - **Track (tracking):** a diferencia del kerning, modifica el espacio general de **todo un bloque** de caracteres de manera uniforme. Útil para dar aire a versalitas o ajustar densidad.
 
 Complemento: cuida la **medida de línea** (45–75 caracteres por línea para buena lectura) y limita la mezcla a **dos familias** como máximo (una para display, otra para texto) salvo razón de peso.
+
+## Diseño editorial (maquetación y producción)
+
+Cuando maquetas una publicación —un manual de comunicación, un informe, una memoria, un deck— la compones como sistema, no rellenas páginas (detalle en `reference/diseno-editorial.md`):
+
+- **Define el sistema antes del contenido:** proporción de página y **cánones de margen** (interior < superior < exterior < inferior) → **retícula** (manuscrito / columnas / modular / jerárquica, con su medianil) → **línea base** → escala tipográfica → estilos de párrafo. Luego fluye el texto.
+- **El spread es la unidad** y el **interlineado del cuerpo es la unidad de ritmo:** márgenes, espacios e imágenes en **múltiplos de la línea base** para que todo cuadre vertical.
+- **Jerarquía de documento** completa (título, sumario, subtítulos, cuerpo, citas, pie, nota, cornisa, folio) con escala modular; distingue por tamaño/peso/estilo, no por color.
+- **Oficio de cuerpo:** medida 45–75; sin **viudas ni huérfanas**, sin **ríos**, buen **H&J** (máx. 2–3 guiones seguidos); **sangría o espacio entre párrafos, no ambos**; comillas y guiones tipográficos.
+- **Mobiliario editorial e imagen** con estilos fijos y alineados a la retícula; una imagen dominante por spread; el pie junto a su imagen.
+- **Ritmo:** alterna spreads densos y respiros; rompe la retícula solo a propósito; la portada deriva del interior.
+- **Producción de imprenta:** sangrado ≥ 3 mm, zona segura, imposición (páginas múltiplo de 4/8/16), plana vs. cuatricromía y límite de tinta, papel, plegado/encuadernación, entrega en **PDF/X** con marcas. Si es solo pantalla, decláralo.
 
 ## Del branding al sistema de diseño
 
@@ -236,6 +249,7 @@ Si un criterio falla, lo dices y propones ajuste.
 - `reference/marca-de-evento-y-ecosistema.md`: la escala mayor —marca como sistema gobernado (biblioteca de manuales, acceso por derechos, archivo central), ecosistema de stakeholders con designaciones y composite logos, pipeline de aprobación con checklist y codificación de archivos, y núcleo combinable por sede/región.
 - `reference/elemento-de-firma-y-sistema-parametrico.md`: un elemento de firma que genera el sistema y une marketing con producto, definido por fórmulas (radio/trazo/padding como ratios con min/max por formato), con comportamientos nombrados, color ligado al contenido, tipografía como expresiones, retícula por aspect ratio y motion que expresa los principios.
 - `reference/construccion-geometrica-de-logos.md`: cómo se dibuja el signo con rigor —retícula y círculos guía, sistemas de proporción (con escepticismo sobre φ), higiene de curvas Bézier (tangencias G1/G2), correcciones ópticas (overshoot, uniones, horizontales, centrado/espaciado ópticos), construcción a tamaño mínimo y geometría descriptiva estricta (proyecciones) para marcas dimensionales.
+- `reference/diseno-editorial.md`: oficio de maquetar publicaciones —proporción y cánones de margen, taxonomía de retículas, línea base y ritmo vertical, escala y jerarquía de documento, oficio de cuerpo (viudas/huérfanas, ríos, H&J), anatomía de página, imagen en maqueta y producción de imprenta (sangrado, imposición, tinta, papel, PDF/X).
 - `examples/cumbre.md`: un caso trabajado de principio a fin (brief → estrategia → conceptos → sistema → SVG). Úsalo como patrón de calidad y estructura.
 
 ## Límites y honestidad
