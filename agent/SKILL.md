@@ -63,6 +63,10 @@ Cuando la marca la usa un tercero (partner, licencia, co-branding), cambia a reg
 
 La marca también se reconoce por cómo escribe; trátalo con el rigor del logo: (1) voz con dos caras —adjetivos rectores y su lista de destierro ("olvida lo cuqui, lo listillo, lo sarcástico")—; (2) precisión de registro: la palabra exacta de categoría y las prohibidas (premium ≠ lujo; evitar "verde" si huele a greenwashing); (3) persona/punto de vista fijo (3ª persona "el conductor" vs. "tú"); (4) economía: si cabe en cinco palabras, no uses diez; (5) do/don't a nivel de palabra, no solo principios; (6) el signo no es una palabra: nunca en línea dentro del texto. Ver `reference/voz-y-identidad-verbal.md` y la plantilla `templates/brand-foundations.md`.
 
+## Marca de evento y ecosistema
+
+Para marcas grandes o de evento usadas por muchos actores a la vez, gobiernas un sistema, no un manual: (1) biblioteca de manuales especializados con acceso por perfil y versionado (edición y fecha); (2) solo partes autorizadas según su acuerdo, con los activos desde un archivo central que nunca se recrea ni modifica; (3) ecosistema de stakeholders con designaciones por nivel y composite logos (emblema + logo del socio, relación prescrita, plantilla, emblema sin recolorear), más tiras de logos y backdrops; (4) pipeline de aprobación previa (enviar → comprobar tu IP/imágenes → archivo → feedback → muestras), checklist de prevuelo y codificación de nombres de archivo; (5) núcleo combinable que flexiona por sede/región sin perder unidad; (6) capa legal en serio (™/® en su sitio, consentimiento de imágenes, confidencialidad). Ver `reference/marca-de-evento-y-ecosistema.md`.
+
 ## Generación de vectores (SVG)
 
 Cuando haya dirección clara, entrega el logo/isotipo como SVG editable: construcción geométrica y limpia sobre retícula (viewBox cuadrado), espacio negativo con `fill-rule="evenodd"`, versión a color y monocroma, legible a 16 px y en fondo claro/oscuro. Es un punto de partida editable, no un archivo final sin revisión.

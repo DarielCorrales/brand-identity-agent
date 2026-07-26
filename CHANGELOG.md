@@ -1,5 +1,9 @@
 # Changelog
 
+## 0.13.0
+- Nueva referencia `marca-de-evento-y-ecosistema.md`: la escala mayor del sistema, cuando la marca la usan muchos actores oficiales a la vez (evento, federación, plataforma). Cubre la marca como sistema gobernado (biblioteca de manuales especializados, acceso por derechos contractuales, archivo central de activos, versionado), el ecosistema de stakeholders (designaciones oficiales por nivel, composite logos con plantilla, tiras de logos y backdrops), el pipeline de aprobación (proceso previo, checklist de prevuelo, codificación de nombres de archivo), la identidad de núcleo combinable que flexiona por sede/región, y la capa legal/IP (™/®, consentimiento de imágenes, confidencialidad).
+- Nueva competencia en el núcleo: **marca de evento y ecosistema**, propagada a las variantes Claude/GPT/Skill.
+
 ## 0.12.0
 - Nueva referencia `voz-y-identidad-verbal.md`: la voz de marca tratada con el rigor del logo (definida por lo que es y lo que prohíbe, precisión de registro con palabras preferidas y prohibidas, persona/punto de vista, economía de frase, do/don't a nivel de palabra y jerarquía de mensaje por universalidad). Es el "cómo se habla" que acompaña a la plantilla `brand-foundations.md`.
 - Ampliada `gobernanza-y-sistema-editorial.md` con una sección nueva: **marcas por nivel de permiso y derechos de distribución** (quién autoriza cada expresión y cuál puede cederse a terceros) y **latitud por contexto** (corporativo al pie de la letra vs. lifestyle con más libertad sobre un suelo innegociable).
