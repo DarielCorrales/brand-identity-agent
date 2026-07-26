@@ -1,5 +1,9 @@
 # Changelog
 
+## 0.9.0
+- Nueva referencia `gobernanza-y-sistema-editorial.md`: cómo se adopta, controla y aplica una identidad para que sobreviva al uso real (identidad como política con respaldo de dirección y responsable de marca, arte maestro que no se redibuja, retícula de construcción por gran formato, matriz de color del signo por contexto de fondo, gestión de varias marcas/registros, la retícula como arquitectura editorial, tipografía como vocabulario razonado con ajuste óptico, y aplicaciones especificadas al milímetro).
+- Nueva competencia en el núcleo: **gobernanza y sistema editorial**, con su método propagado a las variantes Claude/GPT/Skill.
+
 ## 0.8.0
 - Nueva referencia `sistemas-de-icono-de-marca.md`: anatomía y método de un brandbook de clase mundial, destilado del análisis de sistemas de ícono de gran consumo (lógica de negocio primero, principios rectores con nombre, inventario de elementos, ficha estándar por elemento, reglas cuantitativas —área de reserva en módulos X, tamaño mínimo por activo, escalas y recorte—, color y tipografía como sistemas, localización multi-script, identidad en movimiento, capa legal/trademark y galerías de "no hacer").
 - Nueva competencia en el núcleo: **sistemas de ícono de marca** para encargos de sistema completo, con su método propagado a las variantes Claude/GPT/Skill.
