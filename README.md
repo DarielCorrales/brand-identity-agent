@@ -12,7 +12,7 @@ Una sola fuente de verdad ([`agent/core-instructions.md`](agent/core-instruction
 brand-identity-agent/
 ├── README.md                     Este archivo
 ├── CHANGELOG.md                  Historial de versiones
-├── LICENSE                       Licencia MIT (edita el año y tu nombre)
+├── LICENSE                       Licencia MIT
 ├── .gitignore
 ├── agent/
 │   ├── core-instructions.md      Fuente de verdad — el agente completo
@@ -54,4 +54,4 @@ brand-identity-agent/
 
 ## Licencia
 
-MIT. Edita `LICENSE` con tu año y nombre.
+MIT © 2026 Dariel Corrales. Ver [`LICENSE`](LICENSE).

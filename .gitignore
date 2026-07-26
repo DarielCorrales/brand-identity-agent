@@ -1,0 +1,14 @@
+# Sistema operativo
+.DS_Store
+Thumbs.db
+
+# Editores
+.vscode/
+.idea/
+*.swp
+*~
+
+# Archivos temporales de diseño / exportaciones locales
+*.tmp
+/exports/
+/local/
